@@ -1,0 +1,6 @@
+Queues 
+First in, first out functionality
+-enqueue: putting into the list
+-dequeue: take out of the list
+-peek: look at the first element of the list but don't do anything to it
+-

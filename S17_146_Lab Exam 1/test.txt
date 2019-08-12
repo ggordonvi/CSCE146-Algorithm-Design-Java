@@ -1,0 +1,5 @@
+<test>
+	<good>
+		This is a simple good example!
+	</good>
+</test>

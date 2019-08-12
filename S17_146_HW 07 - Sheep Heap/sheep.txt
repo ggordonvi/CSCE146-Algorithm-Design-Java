@@ -1,0 +1,15 @@
+Bob	105
+Dylan	120
+Sarah	101
+Trevor	160
+Ashley	120
+Anne	108
+Alex	155
+Gen	108
+Rob	120
+Xavier	180
+Herc	199
+Belle	110
+Jen	118
+Pat	150
+Space	145
